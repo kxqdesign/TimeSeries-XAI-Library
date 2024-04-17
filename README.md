@@ -38,4 +38,16 @@ Series saliency: Temporal interpretation for multivariate time series forecastin
 - https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.60471&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 - http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/
 
-
+## Time Series Library
+**Merlion**  
+https://github.com/salesforce/Merlion?tab=readme-ov-file#getting-started  
+**Darts**
+https://unit8co.github.io/darts/README.html  
+**tsfresh**
+https://tsfresh.readthedocs.io/en/latest/text/introduction.html  
+**MvTS**
+https://github.com/MTS-BenchMark/MvTS  
+**AutoTS**
+https://github.com/winedarksea/AutoTS  
+**TFB**
+https://github.com/decisionintelligence/TFB  
