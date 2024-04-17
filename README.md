@@ -39,7 +39,7 @@ Series saliency: Temporal interpretation for multivariate time series forecastin
 - http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/
 
 ## Time Series Library
-**Merlion**  
+**Merlion**
 https://github.com/salesforce/Merlion?tab=readme-ov-file#getting-started  
 **Darts**
 https://unit8co.github.io/darts/README.html  
@@ -51,3 +51,5 @@ https://github.com/MTS-BenchMark/MvTS
 https://github.com/winedarksea/AutoTS  
 **TFB**
 https://github.com/decisionintelligence/TFB  
+**Time Series Library (TSlib)**
+https://github.com/thuml/Time-Series-Library
