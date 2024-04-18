@@ -53,3 +53,5 @@ https://github.com/winedarksea/AutoTS
 https://github.com/decisionintelligence/TFB  
 **Time Series Library (TSlib)**
 https://github.com/thuml/Time-Series-Library
+**SKtime**
+https://www.sktime.net/en/latest/get_started.html
