@@ -17,7 +17,11 @@ The road to learn XAI, especially in Time Series area.
 - Explaining time series predictions with dynamic masks (2021) by Crabbé, J., & Van Der Schaar, M. https://github.com/JonathanCrabbe/Dynamask, 
 Series saliency: Temporal interpretation for multivariate time series forecasting (2020) by Pan, Q., Hu, W., & Zhu, J.
 ### Evaluation
-
+## XAI Library
+- https://github.com/salesforce/OmniXAI
+- https://github.com/josephenguehard/time_interpret
+- https://github.com/pytorch/captum
+- https://github.com/understandable-machine-intelligence-lab/Quantus
 ## Tutorial
 - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-time-series-analysis.html
 - https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
@@ -30,10 +34,6 @@ Series saliency: Temporal interpretation for multivariate time series forecastin
 - https://github.com/qingsongedu/awesome-AI-for-time-series-papers
 - https://github.com/qingsongedu/time-series-transformers-review
 - https://github.com/wangyongjie-ntu/Awesome-explainable-AI
-## XAI Library
-- https://github.com/salesforce/OmniXAI
-- https://github.com/pytorch/captum
-- https://github.com/understandable-machine-intelligence-lab/Quantus
 ## Interactive Explanation
 - https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.60471&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 - http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/
