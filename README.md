@@ -22,9 +22,11 @@ Series saliency: Temporal interpretation for multivariate time series forecastin
 - https://github.com/josephenguehard/time_interpret
 - https://github.com/pytorch/captum
 - https://github.com/understandable-machine-intelligence-lab/Quantus
+- https://github.com/awslabs/gluonts  
 ## Tutorial
 - https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-time-series-analysis.html
 - https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+- https://www.udacity.com/course/time-series-forecasting--ud980?ranMID=53187&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-1xFDY2hsHgGum_7J5vwmZA&utm_source=affiliates  
 - https://www.udemy.com/course/time-series-analysis/
 ## Resource Library
 - https://github.com/JHoelli/Awesome-Time-Series-Explainability
@@ -42,7 +44,7 @@ Series saliency: Temporal interpretation for multivariate time series forecastin
 **Merlion**
 https://github.com/salesforce/Merlion?tab=readme-ov-file#getting-started  
 **Darts**
-https://unit8co.github.io/darts/README.html  
+https://unit8co.github.io/darts/README.html    
 **tsfresh**
 https://tsfresh.readthedocs.io/en/latest/text/introduction.html  
 **MvTS**
@@ -52,6 +54,6 @@ https://github.com/winedarksea/AutoTS
 **TFB**
 https://github.com/decisionintelligence/TFB  
 **Time Series Library (TSlib)**
-https://github.com/thuml/Time-Series-Library
+https://github.com/thuml/Time-Series-Library  
 **SKtime**
-https://www.sktime.net/en/latest/get_started.html
+https://www.sktime.net/en/latest/get_started.html  
